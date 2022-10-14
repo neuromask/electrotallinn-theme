@@ -15,7 +15,7 @@ Autostart: Add start_conky.desktop to home/.autostart/start_conky.desktop
 ### Alacritty Moonlight Theme
 https://github.com/rajasegar/alacritty-themes
 
-## ElectroTallinn Wallpaper
+### ElectroTallinn Wallpaper
 https://drive.google.com/drive/folders/1O0vKdfLp634_CAH0UFZQ4Vkqn4zMdun_?usp=sharing
 
 ### Gnome Theme (Manjaro Linux)
