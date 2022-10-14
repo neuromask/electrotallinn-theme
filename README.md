@@ -27,6 +27,9 @@ Orchis: https://www.pling.com/p/1357889/
 Mkos-Big-Sur: https://www.pling.com/p/1400021  
 McMojave-circle: https://www.gnome-look.org/p/1305429
 
+### Gnome Extensions Sync
+Locate readme.txt in "gnome extensions" folder and follow instructions.
+
 ## System
 
 ### Youtube video
