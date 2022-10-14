@@ -1,7 +1,7 @@
 # ElectroTallinn theme for Linux
 ElectroTallinn Moonlight theme: Conky, VSC, Alacritty
 
-![logo](https://imgur.com/gallery/CM46pxB)
+![logo](https://i.imgur.com/3V2lNqj.png)
 
 ## VSC Moonlight theme
 https://github.com/atomiks/moonlight-vscode-theme
