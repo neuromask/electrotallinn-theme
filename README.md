@@ -1,4 +1,4 @@
-# electrotallinn-theme
+# ElectroTallinn theme for Linux
 ElectroTallinn Moonlight theme: Conky, VSC, Alacritty
 
 ## VSC Moonlight theme
