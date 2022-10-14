@@ -8,6 +8,7 @@ https://github.com/atomiks/moonlight-vscode-theme
 
 ## Conky theme
 Install theme: Add conky folder to home/.config/conky
+
 Autostart: Add start_conky.desktop to home/.autostart
 
 ## Alacritty Moonlight theme
