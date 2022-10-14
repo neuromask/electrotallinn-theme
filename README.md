@@ -7,9 +7,9 @@ ElectroTallinn Moonlight theme: Conky, VSC, Alacritty
 https://github.com/atomiks/moonlight-vscode-theme
 
 ## Conky theme
-Install theme: Add conky folder to home/.config/conky
+Install theme: Add conky folder to home/.config/conky/connky-theme
 
-Autostart: Add start_conky.desktop to home/.autostart
+Autostart: Add start_conky.desktop to home/.autostart/start_conky.desktop
 
 ## Alacritty Moonlight theme
 https://github.com/rajasegar/alacritty-themes
