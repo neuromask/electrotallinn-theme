@@ -19,7 +19,7 @@ https://drive.google.com/drive/folders/1O0vKdfLp634_CAH0UFZQ4Vkqn4zMdun_?usp=sha
 
 
 ## Gnome Theme (Manjaro Linux)
-Nordic: https://www.pling.com/p/1267246
+Tokyo Moon: https://www.pling.com/p/1681315
 
 WhiteSur: https://www.pling.com/p/1403328/
 
