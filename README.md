@@ -3,8 +3,10 @@ ElectroTallinn Moonlight theme: Conky, VSC, Alacritty
 
 ![logo](https://i.imgur.com/3V2lNqj.png)
 
-## VSC Moonlight Theme
-https://github.com/atomiks/moonlight-vscode-theme
+## VSC Material & Moonlight Theme
+Material: https://github.com/material-theme/vsc-material-theme
+
+Moonlight: https://github.com/atomiks/moonlight-vscode-theme
 
 ## Conky Theme
 Install theme: Add conky folder to home/.config/conky/connky-theme
