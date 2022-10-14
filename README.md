@@ -19,11 +19,13 @@ https://drive.google.com/drive/folders/1O0vKdfLp634_CAH0UFZQ4Vkqn4zMdun_?usp=sha
 
 
 ## Gnome Theme (Manjaro Linux)
-WhiteSur https://www.pling.com/p/1403328/
+Nordic: https://www.pling.com/p/1267246
 
-Orchis https://www.pling.com/p/1357889/
+WhiteSur: https://www.pling.com/p/1403328/
+
+Orchis: https://www.pling.com/p/1357889/
 
 ## Icons for Gnome Dock
-Mkos-Big-Sur https://www.pling.com/p/1400021
+Mkos-Big-Sur: https://www.pling.com/p/1400021
 
-McMojave-circle https://www.gnome-look.org/p/1305429
+McMojave-circle: https://www.gnome-look.org/p/1305429
