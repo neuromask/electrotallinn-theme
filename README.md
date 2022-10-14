@@ -3,15 +3,15 @@ ElectroTallinn Moonlight theme: Conky, VSC, Alacritty
 
 ![logo](https://i.imgur.com/3V2lNqj.png)
 
-## VSC Moonlight theme
+## VSC Moonlight Theme
 https://github.com/atomiks/moonlight-vscode-theme
 
-## Conky theme
+## Conky Theme
 Install theme: Add conky folder to home/.config/conky/connky-theme
 
 Autostart: Add start_conky.desktop to home/.autostart/start_conky.desktop
 
-## Alacritty Moonlight theme
+## Alacritty Moonlight Theme
 https://github.com/rajasegar/alacritty-themes
 
 ## ElectroTallinn Wallpaper
