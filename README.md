@@ -31,3 +31,39 @@ Orchis: https://www.pling.com/p/1357889/
 Mkos-Big-Sur: https://www.pling.com/p/1400021
 
 McMojave-circle: https://www.gnome-look.org/p/1305429
+
+## System
+
+#### Youtube video
+https://www.youtube.com/watch?v=4fpffesqZkk
+
+#### Applications
+Remmina - Remote desktop
+Mailspring - Mail client
+Tabby - Terminal
+VSC - Coding
+Spotify - Music player
+Telegram - Messenger
+OBS - Stream and video record
+Gimp - Photoshop in Linux
+Blender - 3D editor
+Stacer - System information
+Conky - System Monitor
+Steam - Game Library
+Lutris - Game launcher
+ProtonUp - Proton GUI installer
+PortProton - Game launcher
+MultiMC - Minecraft launcher
+Flathub - App manager
+Fontbase - Font manager
+Discord - Messenger
+Postman - DB Request manager
+Gnome tweaks - Gnome tweaker
+Waydroid - Android emulator
+Coolero - NZXT control
+Etcher - USB image maker
+Tor - Secure browser
+Flameshot - Screenshot capturer
+qBittorrent - Torrent client
+Davinci Resolve - Video Editor
+Shutter Encoder - Video Converter
