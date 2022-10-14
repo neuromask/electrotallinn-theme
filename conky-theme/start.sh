@@ -3,4 +3,4 @@
 killall conky
 sleep 2s
 		
-conky -c $HOME/.config/conky/Simple/config.conf &> /dev/null &
+conky -c $HOME/.config/conky/conky-theme/config.conf &> /dev/null &
