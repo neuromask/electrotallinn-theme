@@ -15,3 +15,14 @@ https://github.com/rajasegar/alacritty-themes
 
 ## ElectroTallinn Wallpaper
 https://drive.google.com/drive/folders/1O0vKdfLp634_CAH0UFZQ4Vkqn4zMdun_?usp=sharing
+
+
+## Gnome Theme (Manjaro Linux)
+_
+WhiteSur https://www.pling.com/p/1403328/
+Orchis https://www.pling.com/p/1357889/
+
+## Icons for Gnome Dock
+_
+Mkos-Big-Sur https://www.pling.com/p/1400021
+McMojave-circle https://www.gnome-look.org/p/1305429
