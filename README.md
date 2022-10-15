@@ -59,6 +59,7 @@ Postman - DB Request manager
 Gnome tweaks - Gnome tweaker  
 Waydroid - Android emulator  
 Coolero - NZXT control  
+OpenRGB - Control RGB lights  
 Etcher - USB image maker  
 Tor - Secure browser  
 Flameshot - Screenshot capturer  
