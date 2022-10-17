@@ -16,6 +16,7 @@ Autostart: Add start_conky.desktop to home/.autostart/start_conky.desktop
 https://github.com/rajasegar/alacritty-themes
 
 ### ElectroTallinn Wallpaper
+Wallpaper created in Blender 3D from scratch for my electric transport community ElectroTallinn ;)  
 https://drive.google.com/drive/folders/1O0vKdfLp634_CAH0UFZQ4Vkqn4zMdun_?usp=sharing
 
 ### Gnome Theme (Manjaro Linux)
