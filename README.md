@@ -15,6 +15,10 @@ Autostart: Add start_conky.desktop to home/.autostart/start_conky.desktop
 ### Alacritty Moonlight Theme
 https://github.com/rajasegar/alacritty-themes
 
+### ZSH Theme
+"Oh My ZSH!": https://ohmyz.sh/
+ZSH_THEME="agnoster": https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
+
 ### ElectroTallinn Wallpaper
 Wallpaper created in Blender 3D from scratch for my electric transport community ElectroTallinn ;)  
 https://drive.google.com/drive/folders/1O0vKdfLp634_CAH0UFZQ4Vkqn4zMdun_?usp=sharing
