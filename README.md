@@ -16,7 +16,7 @@ Autostart: Add start_conky.desktop to home/.autostart/start_conky.desktop
 https://github.com/rajasegar/alacritty-themes
 
 ### ZSH Theme
-"Oh My ZSH!": https://ohmyz.sh/  
+"Oh My ZSH!": ![Installation Guide](https://gist.github.com/yovko/becf16eecd3a1f69a4e320a95689249e) / https://ohmyz.sh/  
 ZSH_THEME="agnoster": https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 
 ### ElectroTallinn Wallpaper
