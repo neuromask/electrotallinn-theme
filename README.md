@@ -13,13 +13,12 @@ Install theme: Add conky folder to home/.config/conky/connky-theme
 Autostart: Add start_conky.desktop to home/.autostart/start_conky.desktop
 
 ### Alacritty Moonlight Theme
-[Installation Guide](https://github.com/alacritty/alacritty/blob/master/INSTALL.md) / https://alacritty.org/  
+Alacritty - [Installation Guide](https://github.com/alacritty/alacritty/blob/master/INSTALL.md) / https://alacritty.org/  
 Themes to choose: "Challenger Deep", "Moonlight"  
 https://github.com/rajasegar/alacritty-themes
 
 ### ZSH Theme
-"Oh My ZSH!"
-[Installation Guide](https://gist.github.com/yovko/becf16eecd3a1f69a4e320a95689249e) / https://ohmyz.sh/  
+Oh My ZSH! - [Installation Guide](https://gist.github.com/yovko/becf16eecd3a1f69a4e320a95689249e) / https://ohmyz.sh/  
 Themes to choose: "duellj", "agnoster"  
 https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 
