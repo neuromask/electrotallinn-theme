@@ -13,6 +13,7 @@ Install theme: Add conky folder to home/.config/conky/connky-theme
 Autostart: Add start_conky.desktop to home/.autostart/start_conky.desktop
 
 ### Alacritty Moonlight Theme
+[Installation Guide](https://github.com/alacritty/alacritty/blob/master/INSTALL.md) / https://alacritty.org/  
 Themes to choose: "Challenger Deep", "Moonlight"  
 https://github.com/rajasegar/alacritty-themes
 
