@@ -13,11 +13,14 @@ Install theme: Add conky folder to home/.config/conky/connky-theme
 Autostart: Add start_conky.desktop to home/.autostart/start_conky.desktop
 
 ### Alacritty Moonlight Theme
+Themes to choose: "Challenger Deep", "Moonlight"  
 https://github.com/rajasegar/alacritty-themes
 
 ### ZSH Theme
-"Oh My ZSH!": [Installation Guide](https://gist.github.com/yovko/becf16eecd3a1f69a4e320a95689249e) / https://ohmyz.sh/  
-ZSH_THEME="agnoster", "duellj": https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
+"Oh My ZSH!"
+[Installation Guide](https://gist.github.com/yovko/becf16eecd3a1f69a4e320a95689249e) / https://ohmyz.sh/  
+Themes to choose: "duellj", "agnoster"  
+https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 
 ### ElectroTallinn Wallpaper
 Wallpaper created in Blender 3D from scratch for my electric transport community ElectroTallinn ;)  
