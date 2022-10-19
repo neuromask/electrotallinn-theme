@@ -9,7 +9,7 @@ Material: https://github.com/material-theme/vsc-material-theme
 Moonlight: https://github.com/atomiks/moonlight-vscode-theme
 
 ### Conky Theme
-Conky - https://github.com/brndnmtthws/conky
+Conky - https://github.com/brndnmtthws/conky  
 Install theme: Add conky folder to home/.config/conky/connky-theme  
 Autostart: Add start_conky.desktop to home/.autostart/start_conky.desktop
 
