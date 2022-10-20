@@ -26,7 +26,8 @@ https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 **Oh My Posh** - [Installation Guide](https://ohmyposh.dev/docs/installation/linux) / https://ohmyposh.dev/  
 Init / Theme setup  
 eval "$(oh-my-posh init zsh)"  
-eval "$(oh-my-posh init zsh --config ~/_yourpath_/config.json)"
+eval "$(oh-my-posh init zsh --config ~/_yourpath_/config.json)"  
+Fonts: https://github.com/ryanoasis/powerline-extra-symbols
 
 ### ElectroTallinn Wallpaper
 Wallpaper created in Blender 3D from scratch for my electric transport community ElectroTallinn ;)  
