@@ -21,7 +21,12 @@ https://github.com/rajasegar/alacritty-themes
 ### ZSH Theme
 Oh My ZSH! - [Installation Guide](https://gist.github.com/yovko/becf16eecd3a1f69a4e320a95689249e) / https://ohmyz.sh/  
 Themes to choose: "duellj", "agnoster"  
-https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
+https://github.com/ohmyzsh/ohmyzsh/wiki/Themes  
+
+Oh My Posh - [Installation Guide](https://ohmyposh.dev/docs/installation/linux) / https://ohmyposh.dev/
+Init / Theme setup
+eval "$(oh-my-posh init zsh)"
+eval "$(oh-my-posh init zsh --config ~/_yourpath_/config.json)"
 
 ### ElectroTallinn Wallpaper
 Wallpaper created in Blender 3D from scratch for my electric transport community ElectroTallinn ;)  
