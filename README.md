@@ -27,7 +27,8 @@ https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 Init / Theme setup  
 eval "$(oh-my-posh init zsh)"  
 eval "$(oh-my-posh init zsh --config ~/_yourpath_/config.json)"  
-Fonts: https://github.com/ryanoasis/powerline-extra-symbols
+Fonts: https://github.com/ryanoasis/powerline-extra-symbols  
+Windows 11 Preview: https://imgur.com/gallery/yRPJ7c7
 
 ### ElectroTallinn Wallpaper
 Wallpaper created in Blender 3D from scratch for my electric transport community ElectroTallinn ;)  
