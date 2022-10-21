@@ -25,7 +25,7 @@ https://github.com/rajasegar/alacritty-themes
 Init / Theme setup: `eval "$(oh-my-posh init zsh --config ~/_yourpath_/config.json)"`  
 Fonts: https://github.com/ryanoasis/powerline-extra-symbols  
 Install "FiraCode Nerd Font": `oh-my-posh font install`  
-Cheat Sheet: https://www.nerdfonts.com/cheat-sheet
+Cheat Sheet: https://www.nerdfonts.com/cheat-sheet  
 Windows 11 Preview: https://imgur.com/gallery/yRPJ7c7
 
 **Neofetch** - [Installation Guide](https://github.com/dylanaraps/neofetch/wiki/Installation) / https://github.com/dylanaraps/neofetch  
