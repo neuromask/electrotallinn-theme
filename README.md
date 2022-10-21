@@ -30,6 +30,10 @@ eval "$(oh-my-posh init zsh --config ~/_yourpath_/config.json)"
 Fonts: https://github.com/ryanoasis/powerline-extra-symbols  
 Windows 11 Preview: https://imgur.com/gallery/yRPJ7c7
 
+**Neofetch** - [Installation Guide](https://github.com/dylanaraps/neofetch/wiki/Installation) / https://github.com/dylanaraps/neofetch  
+Themes  
+https://github.com/Chick2D/neofetch-themes
+
 ### ElectroTallinn Wallpaper
 Wallpaper created in Blender 3D from scratch for my electric transport community ElectroTallinn ;)  
 https://drive.google.com/drive/folders/1O0vKdfLp634_CAH0UFZQ4Vkqn4zMdun_?usp=sharing
