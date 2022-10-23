@@ -21,6 +21,9 @@ https://github.com/rajasegar/alacritty-themes
 
 ### ZSH Theme
 
+**ZSH COnfig** - https://github.com/wszqkzqk/easy-zsh-config  
+Easy setup
+
 **Oh My Posh** - [Installation Guide](https://ohmyposh.dev/docs/installation/linux) / https://ohmyposh.dev/  
 Init / Theme setup: `eval "$(oh-my-posh init zsh --config ~/_yourpath_/config.json)"`  
 Fonts: https://github.com/ryanoasis/powerline-extra-symbols  
