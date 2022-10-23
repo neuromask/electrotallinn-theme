@@ -21,7 +21,7 @@ https://github.com/rajasegar/alacritty-themes
 
 ### ZSH Theme
 
-**ZSH COnfig** - https://github.com/wszqkzqk/easy-zsh-config  
+**ZSH Config** - https://github.com/wszqkzqk/easy-zsh-config  
 Easy setup
 
 **Oh My Posh** - [Installation Guide](https://ohmyposh.dev/docs/installation/linux) / https://ohmyposh.dev/  
