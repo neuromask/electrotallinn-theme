@@ -1,0 +1,4 @@
+# Use powerline
+USE_POWERLINE="true"
+
+eval "$(oh-my-posh init zsh --config ~/.config/ohmyposh/config.json)"
