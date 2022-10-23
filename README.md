@@ -2,7 +2,7 @@
 ElectroTallinn Moonlight theme: Conky, VSC, Alacritty
 ![moonlight](https://i.imgur.com/VsxGCqO.png)  
 ![electrotallinn](https://i.imgur.com/S6kXMSc.png)
-## dotfiles
+## Dotfiles
 Linux dotfiles for ElectroTallinn Cyber/Moonlight Theme.  
 ### Sync and Apply
 **chezmoi** - https://www.chezmoi.io/  
