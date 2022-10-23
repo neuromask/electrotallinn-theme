@@ -7,26 +7,19 @@ Linux dotfiles for ElectroTallinn Cyber/Moonlight Theme.
 ### Sync and Apply
 **chezmoi** - https://www.chezmoi.io/  
 Manage your dotfiles across multiple diverse machines, securely.
-
-
-
 ## Theme
 ### VSC Material & Moonlight Theme
 Material: https://github.com/material-theme/vsc-material-theme  
 Moonlight: https://github.com/atomiks/moonlight-vscode-theme
-
 ### Conky Theme
 **Conky** - https://github.com/brndnmtthws/conky  
-Install theme: Add conky folder to home/.config/conky/connky-theme  
+Install theme: Add conky folder to home/.config/conky/cyber-theme
 Autostart: Add start_conky.desktop to home/.autostart/start_conky.desktop
-
 ### Alacritty Moonlight Theme
 **Alacritty** - [Installation Guide](https://github.com/alacritty/alacritty/blob/master/INSTALL.md) / https://alacritty.org/  
 Themes to choose: "Challenger Deep", "Moonlight"  
 https://github.com/rajasegar/alacritty-themes
-
 ### ZSH Theme
-
 **ZSH Config** - https://github.com/wszqkzqk/easy-zsh-config  
 Easy setup
 
@@ -43,28 +36,21 @@ Themes: https://github.com/Chick2D/neofetch-themes
 **Oh My ZSH!** *alternative* - [Installation Guide](https://gist.github.com/yovko/becf16eecd3a1f69a4e320a95689249e) / https://ohmyz.sh/  
 Themes to choose: "duellj", "agnoster"  
 https://github.com/ohmyzsh/ohmyzsh/wiki/Themes  
-
 ### ElectroTallinn Wallpaper
 Wallpaper created in Blender 3D from scratch for my electric transport community ElectroTallinn ;)  
 https://drive.google.com/drive/folders/1O0vKdfLp634_CAH0UFZQ4Vkqn4zMdun_?usp=sharing
-
 ### Gnome Theme (Manjaro Linux)
 Tokyo Moon: https://www.pling.com/p/1681315  
 WhiteSur: https://www.pling.com/p/1403328/  
 Orchis: https://www.pling.com/p/1357889/
-
 ### Icons for Gnome Dock
 Mkos-Big-Sur: https://www.pling.com/p/1400021  
 McMojave-circle: https://www.gnome-look.org/p/1305429
-
 ### Gnome Extensions Sync
 Locate readme.txt in "gnome-extensions" folder and follow instructions.
-
 ## System
-
 ### Youtube video
 https://www.youtube.com/watch?v=4fpffesqZkk
-
 ### Applications  
 Remmina - Remote desktop  
 Mailspring - Mail client  
