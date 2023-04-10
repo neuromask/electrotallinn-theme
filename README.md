@@ -26,7 +26,7 @@ Easy setup
 **Oh My Posh** - [Installation Guide](https://ohmyposh.dev/docs/installation/linux) / https://ohmyposh.dev/  
 Init / Theme setup: `eval "$(oh-my-posh init zsh --config ~/_yourpath_/config.json)"`  
 Fonts: https://github.com/ryanoasis/powerline-extra-symbols  
-Install "FiraCode Nerd Font": `oh-my-posh font install`  
+Install "[FiraCode Nerd Font](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraCode/Medium)": `oh-my-posh font install`  
 Cheat Sheet: https://www.nerdfonts.com/cheat-sheet  
 Windows 11 Preview: https://imgur.com/gallery/yRPJ7c7
 
